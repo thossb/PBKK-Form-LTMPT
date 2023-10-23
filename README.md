@@ -1,3 +1,5 @@
+Using laravel MVC architecture
+
 tampilan
 
 ![image](https://github.com/thossb/PBKK-Form-LTMPT/assets/90438426/9b2874d0-4775-4b93-9055-54d6ea716a8f)
